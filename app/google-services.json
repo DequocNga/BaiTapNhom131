@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "445829235482",
+    "firebase_url": "https://baitapnhom131.firebaseio.com",
+    "project_id": "baitapnhom131",
+    "storage_bucket": "baitapnhom131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445829235482:android:537f4b9cdc07c927",
+        "android_client_info": {
+          "package_name": "russia.com.baitapnhom131"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445829235482-gj8frmla9u6f3b6i1g2rp5beco48s6o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "russia.com.baitapnhom131",
+            "certificate_hash": "0fbaae7e9200642ece0374b57aba4a23b7650684"
+          }
+        },
+        {
+          "client_id": "445829235482-fv8hltjfg550961lcb77o577t8und1of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8BtqCQQ3Vb--tD3ytpBwkoVt5kAW4rjk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445829235482-fv8hltjfg550961lcb77o577t8und1of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
